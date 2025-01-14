@@ -1,7 +1,7 @@
 from models.Player import Player
 from models.OPiece import OPiece
 from models.XPiece import XPiece
-from LLDs.LLD_Examples.TicTacToeLLD.Game import Game
+from Game import Game
 
 def main():
     player1 = Player(name="Prafull",piece=OPiece())
