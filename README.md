@@ -1,6 +1,3 @@
-Here's a simple `README.md` for your repository:  
-
-```markdown
 # Low-Level Design (LLD) Examples in Python
 
 This repository contains **Low-Level Design (LLD)** examples implemented in Python. Each example demonstrates key software design principles, object-oriented programming (OOP) concepts, and best practices.
@@ -37,6 +34,5 @@ Feel free to open issues, submit PRs, or suggest improvements!
 
 ## 📄 License
 This project is open-source and available under the MIT License.
-```
 
-Let me know if you need any modifications! 🚀
+

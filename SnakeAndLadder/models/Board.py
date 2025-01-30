@@ -2,7 +2,7 @@
 from models.MovingEntity import MovingEntity
 class BoardI:
     def __init__(self,size):
-        if size < 10: # let assume minimum size should be 100 
+        if size < 10: # let assume minimum size should be 10 
             raise ValueError("size should be more than or equal to 10!")
         self.size = size
         self.board = [MovingEntity(i) for i in range(0,size + 1)] # adding 1 as we will not consider 0th index
