@@ -13,7 +13,7 @@ Each LLD example is organized in its own folder. You can navigate to a specific 
    ```
 2. Navigate to the desired LLD example:
    ```sh
-   cd example-name
+   cd SplitWise #example
    ```
 3. Run the `main.py` file:
    ```sh
@@ -26,8 +26,8 @@ Each LLD example is organized in its own folder. You can navigate to a specific 
 
 ## 📌 LLD Implementations
 1. 🎲 **[Snake and Ladder](./SnakeAndLadder/)** – A board game simulation with players, dice, snakes, and ladders.
-2. ❌ **[Tic-Tac-Toe](./TicTacToe/)** – A turn-based multiplayer game with a 3x3 grid.
-3. 💰 **[Splitwise](./Splitwise/)** – A simplified expense-sharing system.
+2. ❌ **[Tic-Tac-Toe](./TicTacToeLLD/)** – A turn-based multiplayer game with a 3x3 grid.
+3. 💰 **[Splitwise](./SplitWise/)** – A simplified expense-sharing system.
 
 ## 🤝 Contributing
 Feel free to open issues, submit PRs, or suggest improvements!
